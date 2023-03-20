@@ -23,7 +23,7 @@ please refer also to the following papers:
 
 [Hueni, et al., 2023] A. Hueni, K. Mason and S. A. Trim, 2023. Uncertainty Support in the Spectral Information System SPECCHIO. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 1-13.
 <br>
-                  DOI: <a href="https://doi.org/10.1109/JSTARS.2023.3251894</a>.
+                  DOI: <a href="https://doi.org/10.1109/JSTARS.2023.3251894">10.1109/JSTARS.2023.3251894</a>.
 
 
 
