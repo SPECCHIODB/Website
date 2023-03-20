@@ -21,6 +21,12 @@ Visit our project page on ResearchGate: <a href="https://www.researchgate.net/pr
 For more information on the technical setup of SPECCHIO 
 please refer also to the following papers:
 
+[Hueni, et al., 2023] A. Hueni, K. Mason and S. A. Trim, 2023. Uncertainty Support in the Spectral Information System SPECCHIO. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 1-13.
+<br>
+                  DOI: <a href="https://doi.org/10.1109/JSTARS.2023.3251894</a>.
+
+
+
 Hueni, A., Malthus, T., Kneubuehler, M. and Schaepman, M. (2011). "Data Exchange between distributed Spectral Databases." Computers & Geosciences 37: 861–873. <br>
                   DOI: <a href="http://dx.doi.org/10.1016/j.cageo.2010.12.009">10.1016/j.cageo.2010.12.009</a>.
 
