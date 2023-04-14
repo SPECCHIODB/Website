@@ -11,11 +11,6 @@ Hueni, A., Chisholm, L., Ong, C., Malthus, T., Wyatt, M., Trim, S., A., Schaepma
 <u><a href="https://ieeexplore.ieee.org/document/9201132">Online version of article on IEEE website</a></u>
 
 
-
-### SPECCHIO on ResearchGate
-
-Visit our project page on ResearchGate: <a href="https://www.researchgate.net/project/SPECCHIO-Spectral-Information-System">SPECCHIO Project</a>
-
 ### Further Reading 
 
 For more information on the technical setup of SPECCHIO 
