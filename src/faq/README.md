@@ -23,11 +23,12 @@ WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root
 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
 </b>
 
+
 This points towards a problem of accessing the specchio username and password, which is stored in the Windows preferences ... To avoid this issue do the following:
 
 
-Select ‘Preferences’ from the SPECCHIO menu, then tick ‘Enable editing of db_config_file’.
-Then click ‘Edit db_config file’ in the Database Menu: a text editor will show up with the connection string. Once this is done, then SPECCHIO will use the db_config file to get the connection details from. Note that you may have to sign up again to the database in case you have quit SPECCHIO after initially creating an account. The reason is that Java cannot write into the Windows preferences.
+Select 'Preferences' from the SPECCHIO menu, then tick 'Enable editing of db_config_file'.
+Then click 'Edit db_config file' in the Database Menu: a text editor will show up with the connection string. Once this is done, then SPECCHIO will use the db_config file to get the connection details from. Note that you may have to sign up again to the database in case you have quit SPECCHIO after initially creating an account. The reason is that Java cannot write into the Windows preferences.
 
 
 
