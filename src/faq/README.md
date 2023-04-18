@@ -13,6 +13,24 @@ If the packets are lost, you probably got a firewall problem. Try to configure
 your firewall accordingly or talk to your system administrator.
 
 
+## SPECCHIO Access Problem from Matlab under Windows
+
+A common problem on Windows machines is that an error appears when connecting to SPECCHIO.
+
+<b>
+Sep 21, 2017 1:18:33 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root
+0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+</b>
+
+This points towards a problem of accessing the specchio username and password, which is stored in the Windows preferences ... To avoid this issue do the following:
+
+
+Select ‘Preferences’ from the SPECCHIO menu, then tick ‘Enable editing of db_config_file’.
+Then click ‘Edit db_config file’ in the Database Menu: a text editor will show up with the connection string. Once this is done, then SPECCHIO will use the db_config file to get the connection details from. Note that you may have to sign up again to the database in case you have quit SPECCHIO after initially creating an account. The reason is that Java cannot write into the Windows preferences.
+
+
+
 ## I cannot connect to the database due to a certificate error (13 FEB 2020)
 
 Java version 8, build 1.8.0_241-b07 is apparently causing problems with the certificate with the current client.
