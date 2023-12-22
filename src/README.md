@@ -72,6 +72,18 @@ and our extensive [API documentation](https://specchio.ch/javadoc/).
 </div>
 
 
+<!-- Support Acknowledgements -->
+<div class="intro column is-8 is-offset-2">
+
+# Acknowledgements
+
+SPECCHIO has received support by
+
+![ScNat](./_img/a+_logo_SCNAT_EN_RGB)
+
+</div>
+
+
 ::: slot twitter
 <!-- Tweets -->
 <client-only>
