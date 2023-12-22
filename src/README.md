@@ -83,7 +83,7 @@ SPECCHIO has received support by
 ![MetEOC](./_img/MetEOC.png) 
 ![EMPIR](./_img/EMPIR.png)
 
-<img src="./_img/logo_SCNAT_EN_RGB.png" alt="ScNat" style="height: 100px; width:100px;"/>
+<img src="./_img/logo_SCNAT_EN_RGB.png" alt="ScNat" style="height: 100px"/>
 
 </div>
 
