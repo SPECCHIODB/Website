@@ -77,7 +77,7 @@ and our extensive [API documentation](https://specchio.ch/javadoc/).
 
 # Acknowledgements
 
-SPECCHIO has received support by
+SPECCHIO has received support by:
 
 <div class="row">
 <div class="column">
