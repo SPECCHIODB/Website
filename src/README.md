@@ -80,7 +80,7 @@ and our extensive [API documentation](https://specchio.ch/javadoc/).
 SPECCHIO has received support by
 
 
-<img style="object-fit: contain;" src="./_img/logo_SCNAT_EN_RGB.png" alt="ScNat" width="100" height="50"/>
+<img src="./_img/logo_SCNAT_EN_RGB.png" alt="ScNat" width="100"/>
 <img style="object-fit: contain;" src="./_img/MetEOC.png" alt="MetEOC" width="100" height="50"/>
 <img style="object-fit: contain;" src="./_img/EMPIR.png" alt="EMPIR" width="100" height="50"/>
 
