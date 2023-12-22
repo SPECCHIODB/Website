@@ -79,7 +79,11 @@ and our extensive [API documentation](https://specchio.ch/javadoc/).
 
 SPECCHIO has received support by
 
-![ScNat](./_img/logo_SCNAT_EN_RGB.png) ![MetEOC](./_img/MetEOC.png) ![EMPIR](./_img/EMPIR.png)
+![ScNat](./_img/logo_SCNAT_EN_RGB.png) 
+![MetEOC](./_img/MetEOC.png) 
+![EMPIR](./_img/EMPIR.png)
+
+<img src="./_img/logo_SCNAT_EN_RGB.png" alt="ScNat" style="height: 100px; width:100px;"/>
 
 </div>
 
