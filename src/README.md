@@ -81,8 +81,8 @@ SPECCHIO has received support by
 
 
 <img src="./_img/logo_SCNAT_EN_RGB.png" alt="ScNat" style="max-width: 50%;"/>
-<img style="object-fit: contain;" src="./_img/MetEOC.png" alt="MetEOC" width="100" height="50"/>
-<img style="object-fit: contain;" src="./_img/EMPIR.png" alt="EMPIR" width="100" height="50"/>
+<img src="./_img/MetEOC.png" alt="MetEOC" style="max-width: 50%;"/>
+<img src="./_img/EMPIR.png" alt="EMPIR" style="max-width: 50%;"/>
 
 </div>
 
