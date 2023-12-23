@@ -77,7 +77,7 @@ and our extensive [API documentation](https://specchio.ch/javadoc/).
 
 # Acknowledgements
 
-SPECCHIO has received support by:
+SPECCHIO has received support by the Swiss Academy of Sciences and by the MetEOC Projects in the EMPIR Program supported by the Participating States and the European Union’s Horizon 2020 Research and Innovation Program under Project 16ENV03 MetEOC-3 and Project 19ENV07 MetEOC-4:
 
 <div class="row">
 <div class="column">
