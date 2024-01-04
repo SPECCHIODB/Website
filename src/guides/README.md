@@ -75,7 +75,7 @@ A collection of use cases showing the use of the SPECCHIO API .
 
 <download-link
     name="SPECCHIO_Tutorial.pdf"
-    link="https://specchiodb.github.io/Guides/blob/master/SPECCHIO_Tutorial.pdf"/>
+    link="https://specchiodb.github.io/Guides/SPECCHIO_Tutorial.pdf"/>
 
 <download-link
     name="tutorial-dataset.zip"
