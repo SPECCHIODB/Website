@@ -8,7 +8,7 @@ and how to connect to the SPECCHIO online database.
 
 <download-link
     name="SPECCHIO Release Notes V3.3.0"
-    link="https://github.com/SPECCHIODB/Guides/raw/master/SPECCHIO_ReleaseNotes.pdf"/>    
+    link="https://specchiodb.github.io/Guides/SPECCHIO_ReleaseNotes.pdf"/>    
 
 
 
@@ -20,7 +20,7 @@ technical background information, operating instructions and a tutorial.
 
 <download-link
     name="SPECCHIO User Guide V3.3.0"
-    link="https://github.com/SPECCHIODB/Guides/raw/master/SPECCHIO_UserGuide.pdf"/>
+    link="https://specchiodb.github.io/Guides/raw/master/SPECCHIO_UserGuide.pdf"/>
 
 ### SPECCHIO VM Guides
 
@@ -29,13 +29,13 @@ They are describe the installation and use of the SPECCHIO VM.
 
 <download-link
     name="SPECCHIO Virtual Box" 
-    link="https://github.com/SPECCHIODB/Guides/raw/master/SPECCHIO_VM.pdf"/>
+    link="https://specchiodb.github.io/Guides/raw/master/SPECCHIO_VM.pdf"/>
 
 
 The upgrade guide describes how to migrate from older SPECCHIO VMs to the new ones.
 <download-link
     name="SPECCHIO Virtual Machine Upgrade"
-    link="https://github.com/SPECCHIODB/Guides/raw/master/SPECCHIO_VMUpgradeGuide.pdf"/>    
+    link="https://specchiodb.github.io/Guides/raw/master/SPECCHIO_VMUpgradeGuide.pdf"/>    
         
 
 ### SPECCHIO Matlab & R Guides
@@ -45,11 +45,11 @@ directly access SPECCHIO from Matlab and R.
 
 <download-link
     name="SPECCHIO_Matlab_Guide_V3.3.0"
-    link="https://github.com/SPECCHIODB/Guides/raw/master/SPECCHIO_Matlab_Guide.pdf"/>
+    link="https://specchiodb.github.io/Guides/raw/master/SPECCHIO_Matlab_Guide.pdf"/>
 
 <download-link
     name="SPECCHIO_R_Guide_V3.3.0"
-    link="https://github.com/SPECCHIODB/Guides/raw/master/SPECCHIO_R_Guide.pdf"/>
+    link="https://specchiodb.github.io/Guides/raw/master/SPECCHIO_R_Guide.pdf"/>
 
 
 ### SPECCHIO Programming Course
@@ -69,13 +69,13 @@ A collection of use cases showing the use of the SPECCHIO API .
 
 <download-link
     name="SPECCHIO API Use Cases"
-    link="https://github.com/SPECCHIODB/Guides/raw/master/SPECCHIO_API_Examples.pdf"/>
+    link="https://specchiodb.github.io/Guides/raw/master/SPECCHIO_API_Examples.pdf"/>
 
 ### Tutorial
 
 <download-link
     name="SPECCHIO_Tutorial.pdf"
-    link="https://github.com/SPECCHIODB/Guides/blob/master/SPECCHIO_Tutorial.pdf"/>
+    link="https://specchiodb.github.io/Guides/blob/master/SPECCHIO_Tutorial.pdf"/>
 
 <download-link
     name="tutorial-dataset.zip"
