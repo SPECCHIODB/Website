@@ -12,6 +12,15 @@
 
       <ul>
         <li>
+          <a :href="downloadClientMacOSInstallerLink">
+            <font-awesome :icon="['fas', 'desktop']"/>
+
+            <span>
+              specchio-installer_MacOS.jar
+            </span>
+          </a>
+        </li>
+        <li>
           <a :href="downloadClientLink">
             <font-awesome :icon="['fas', 'desktop']"/>
 
@@ -19,7 +28,7 @@
               specchio-installer.jar
             </span>
           </a>
-        </li>
+        </li>        
         <li>
           <a :href="downloadVMLink">
             <font-awesome :icon="['fas', 'box-open']"/>
@@ -90,6 +99,10 @@ export default {
       if (!this.release.body) return
       return md.render(this.release.body)
     },
+    downloadClientMacOSInstallerLink () {
+      const jenkinsUrl = this.$site.themeConfig.jenkinsUrl
+      return `${jenkinsUrl}/SPECCHIO/lastSuccessfulBuild/artifact/src/MacOS_Installer/build/distributions/specchio-installer_MacOS.jar`
+    },    
     downloadClientLink () {
       const jenkinsUrl = this.$site.themeConfig.jenkinsUrl
       return `${jenkinsUrl}/SPECCHIO/lastSuccessfulBuild/artifact/src/client/build/distributions/specchio-installer.jar`
