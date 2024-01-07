@@ -6,7 +6,9 @@ On this page you will find all Downloadables from the SPECCHIO project.
 
 The SPECCHIO Application consists of a Java application plus a number of library
 files. 
+
 For MacOS we recommend the specific MacOS installer including the JRE for easiest install: [specchio-installer_MacOS.jar](https://jenkins.specchio.ch/job/SPECCHIO/lastSuccessfulBuild/artifact/src/MacOS_Installer/build/distributions/specchio-installer_MacOS.jar).
+
 For generic operating systems we recommend using the multi-platform installer: [specchio-installer.jar](https://jenkins.specchio.ch/job/SPECCHIO/lastSuccessfulBuild/artifact/src/client/build/distributions/specchio-installer.jar).
 
 The SPECCHIO client and server binaries are also available as ZIP archives. 
