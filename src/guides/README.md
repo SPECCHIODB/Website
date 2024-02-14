@@ -38,10 +38,11 @@ The upgrade guide describes how to migrate from older SPECCHIO VMs to the new on
     link="https://specchiodb.github.io/Guides/SPECCHIO_VMUpgradeGuide.pdf"/>    
         
 
-### SPECCHIO Matlab & R Guides
+### SPECCHIO Matlab, Python & R Guides
 
-The SPECCHIO Matlab and R Guides contain instructions and examples on how to
-directly access SPECCHIO from Matlab and R. 
+The SPECCHIO Matlab, Python and R Guides contain instructions and examples on how to
+directly access SPECCHIO from Matlab, Python and R.
+Should any questions arise or your specific need is not yet covered by the examples please drop us an email.
 
 <download-link
     name="SPECCHIO_Matlab_Guide_V3.3.0"
@@ -50,6 +51,10 @@ directly access SPECCHIO from Matlab and R.
 <download-link
     name="SPECCHIO_R_Guide_V3.3.0"
     link="https://specchiodb.github.io/Guides/SPECCHIO_R_Guide.pdf"/>
+     
+<download-link
+    name="SPECCHIO_R_Guide_V1"
+    link="https://specchiodb.github.io/Guides/Python_accessing_SPECCHIO.pdf"/>    
 
 
 ### SPECCHIO Programming Course
