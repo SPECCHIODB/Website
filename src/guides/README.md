@@ -53,7 +53,7 @@ Should any questions arise or your specific need is not yet covered by the examp
     link="https://specchiodb.github.io/Guides/SPECCHIO_R_Guide.pdf"/>
      
 <download-link
-    name="SPECCHIO_R_Guide_V1"
+    name="SPECCHIO_Python_Guide_V1"
     link="https://specchiodb.github.io/Guides/Python_accessing_SPECCHIO.pdf"/>    
 
 
