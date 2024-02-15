@@ -54,7 +54,7 @@ Should any questions arise or your specific need is not yet covered by the examp
      
 <download-link
     name="SPECCHIO_Python_Guide_V1"
-    link="https://specchiodb.github.io/Guides/Python_accessing_SPECCHIO.pdf"/>    
+    link="https://github.com/SPECCHIODB/Guides/blob/master/Programming%20Course/Python_accessing_SPECCHIO.pdf"/>    
 
 
 ### SPECCHIO Programming Course
